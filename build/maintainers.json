@@ -5287,6 +5287,9 @@
   "/oilchem/:type?/:category?/:subCategory?": [
     "nczitzk"
   ],
+  "/okx/:section?": [
+    "lxl66566"
+  ],
   "/olevod/vod/:id": [
     "fang63625"
   ],
